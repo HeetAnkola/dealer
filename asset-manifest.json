@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dealer/static/css/main.073c9b0a.css",
-    "main.js": "/dealer/static/js/main.60613eae.js",
+    "main.js": "/dealer/static/js/main.ba2581cd.js",
     "static/js/787.93ff5130.chunk.js": "/dealer/static/js/787.93ff5130.chunk.js",
     "index.html": "/dealer/index.html",
     "main.073c9b0a.css.map": "/dealer/static/css/main.073c9b0a.css.map",
-    "main.60613eae.js.map": "/dealer/static/js/main.60613eae.js.map",
+    "main.ba2581cd.js.map": "/dealer/static/js/main.ba2581cd.js.map",
     "787.93ff5130.chunk.js.map": "/dealer/static/js/787.93ff5130.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.60613eae.js"
+    "static/js/main.ba2581cd.js"
   ]
 }
