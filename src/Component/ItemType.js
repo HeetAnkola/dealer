@@ -23,6 +23,14 @@ export class ItemType extends Component {
         <Item title="MSI Modern 14, Intel i5-10210U, 14 FHD IPS-Level 60Hz ..." link="https://amzn.to/37cH2mw" imglink="https://m.media-amazon.com/images/I/81uEixOREFL._SL1500_.jpg"/></div>
         <div className="col md-4">
         <Item title="pTron Bassbuds Duo New Bluetooth 5.1 Wireless Headphone..." link="https://amzn.to/3OUxX2z" imglink="https://m.media-amazon.com/images/I/519uMzMXJVL._SL1100_.jpg"/></div>
+        <div className="col md-4">
+        <Item title="Python: Programming for Advanced: Learn the Fundamental..." link="https://amzn.to/3wpea39" imglink="https://m.media-amazon.com/images/I/41hCp01Ck0L.jpg"/></div>
+        <div className="col md-4">
+        <Item title="PYTHON: PROGRAMMING: A BEGINNERS GUIDE TO LEARN PYTHON..." link="https://amzn.to/39x2cMN" imglink="https://m.media-amazon.com/images/I/41eUu1vIpaL.jpg"/></div>
+        <div className="col md-4">
+        <Item title="Python Programming: Your Advanced Guide To Learn Python..." link="https://amzn.to/3w2ZXbP" imglink="https://m.media-amazon.com/images/I/4191DNJ9ByL.jpg"/></div>
+        <div className="col md-4">
+        <Item title="Blake Pierce: Mystery Bundle (Before He Kills, Cause to..." link="https://amzn.to/37YOF0p" imglink="https://m.media-amazon.com/images/I/41M3Ilc52+L._SX260_.jpg"/></div>
         </div></div>
     )
   }
