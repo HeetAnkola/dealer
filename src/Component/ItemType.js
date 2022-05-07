@@ -31,6 +31,10 @@ export class ItemType extends Component {
         <Item title="Python Programming: Your Advanced Guide To Learn Python..." link="https://amzn.to/3w2ZXbP" imglink="https://m.media-amazon.com/images/I/4191DNJ9ByL.jpg"/></div>
         <div className="col md-4">
         <Item title="Blake Pierce: Mystery Bundle (Before He Kills, Cause to..." link="https://amzn.to/37YOF0p" imglink="https://m.media-amazon.com/images/I/41M3Ilc52+L._SX260_.jpg"/></div>
+        <div className="col md-4">
+        <Item title="Casio Enticer Ladies Analog White Dial Women's Watch-A1807" link="https://amzn.to/389LZwQ" imglink="https://m.media-amazon.com/images/I/612Rs5A1chL._UL1440_.jpg"/></div>
+        <div className="col md-4">
+        <Item title="WOW Imagine Shock Proof Clear Protective Back Case for Samsung Galaxy M33 5G - AirEDGE Technology" link="https://amzn.to/3P4MRTV" imglink="https://m.media-amazon.com/images/I/51JWM9OBzbL._SL1000_.jpg"/></div>
         </div></div>
     )
   }
