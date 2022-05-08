@@ -120,6 +120,13 @@ export class ItemType extends Component {
               link="https://amzn.to/3MWcSmx"
               imglink="https://m.media-amazon.com/images/I/61Q6E7laZjL._SL1500_.jpg"
             />
+          </div>  
+          <div className="col md-4">
+          <Item
+              title="Best Sellers in Kindle Store"
+              link="https://amzn.to/3Fou1mw"
+              imglink="https://m.media-amazon.com/images/G/01/ACI/ACI_KindleStore._SS300_SCLZZZZZZZ_.png"
+            />
           </div>
         </div>
       </div>
