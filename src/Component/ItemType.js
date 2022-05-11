@@ -128,6 +128,20 @@ export class ItemType extends Component {
               imglink="https://m.media-amazon.com/images/G/01/ACI/ACI_KindleStore._SS300_SCLZZZZZZZ_.png"
             />
           </div>
+          <div className="col md-4">
+          <Item
+              title="Allen Solly Men's Chino Shorts"
+              link="https://amzn.to/3KY0zoE"
+              imglink="https://m.media-amazon.com/images/I/51DLjheLVBL._UL1500_.jpg"
+            />
+          </div>
+          <div className="col md-4">
+          <Item
+              title="Freelance Vacuum Insulated Stainless Steel Flask, Water B..."
+              link="https://amzn.to/39GC6XO"
+              imglink="https://m.media-amazon.com/images/I/51ZhHTMSuaL._SL1000_.jpg"
+            />
+          </div>
         </div>
       </div>
     );
