@@ -142,6 +142,34 @@ export class ItemType extends Component {
               imglink="https://m.media-amazon.com/images/I/51ZhHTMSuaL._SL1000_.jpg"
             />
           </div>
+          <div className="col md-4">
+          <Item
+              title="MOBITUSSION Back Cover for iPhone XR (Flexible|Silicone ..."
+              link="https://amzn.to/3w4x1kV"
+              imglink="https://m.media-amazon.com/images/I/51YwX20A1gL._SL1049_.jpg"
+            />
+          </div>
+          <div className="col md-4">
+          <Item
+              title="FOKRIM Made Stainless Steel and Virgin Glass Holder for 6..."
+              link="https://amzn.to/3FyXTNb"
+              imglink="https://m.media-amazon.com/images/I/51bWxZ4A-0L._SL1000_.jpg"
+            />
+          </div>
+          <div className="col md-4">
+          <Item
+              title="Stylista Microwave Oven Cover for Samsung 28 L Convection..."
+              link="https://amzn.to/3Naq4nV"
+              imglink="https://m.media-amazon.com/images/I/71qr0+TnRyL._SL1500_.jpg"
+            />
+          </div>
+          <div className="col md-4">
+          <Item
+              title="BATH GURU ABS Plastic Wall Mounted Soap Shampoo Conditioner Hand ..."
+              link="https://amzn.to/3l3qyjK"
+              imglink="https://m.media-amazon.com/images/I/51dsyjnNzBL._SL1500_.jpg"
+            />
+          </div>
         </div>
       </div>
     );
